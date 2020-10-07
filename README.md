@@ -55,7 +55,7 @@ vaitheeswaran@Linux:~$ ps -a
  226136 pts/3    00:00:00 ps
 
 ```
-5 second later
+>**5 second later**
 
 ```bash
 vaitheeswaran@Linux:~$ ps -a
