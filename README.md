@@ -31,8 +31,8 @@ int main() {
 # Answer is 
 
 Each Program not fully completed!
-**See This Diagram**
-<img src="https://i.stack.imgur.com/bnFDM.jpg" width="50%"><br>
+**See This Diagram**<br>
+<img src="https://i.stack.imgur.com/bnFDM.jpg" width="60%" align="left"><br>
 Each program run its code recursively. So the Each program creates a parent and child program.
 
 When your are while running this program, may be system will be crashes.
