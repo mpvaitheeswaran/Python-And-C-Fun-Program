@@ -1,4 +1,8 @@
 # Python-And-C-Fun-Program
+### First watch this video
+I sure you to first watch this video and you have better idea what is in this program
+[![Watch the video](https://img.youtube.com/vi/y9dFvtmX9GU/maxresdefault.jpg)](https://youtu.be/y9dFvtmX9GU)
+
 
 One day I am running C++ code using python Script. Then I had an idea, why we can run Python code in C++. then i run same python code to run c++ code ,before run this python code I changed some In My C++ program that is `system('<now_running_python_code>.py');`, and the program is not terminated,it was while running without Loop. 
 
